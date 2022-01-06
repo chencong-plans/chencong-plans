@@ -1,4 +1,4 @@
-### Hi there 👋
+## 如果你希望成功，当以恒心为良友，以经验为参谋，以谨慎为兄弟，以希望为哨兵。 👋
 
 <!--
 **chencong-plans/chencong-plans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
